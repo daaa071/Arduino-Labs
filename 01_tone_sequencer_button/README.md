@@ -21,7 +21,7 @@ This Arduino project plays a sequence of musical notes (C4–B4) with synchroniz
 
 ## 📷 Circuit Diagram
 
-![Circuit Diagram](01_tone_sequencer_button/01_tone_sequencer_button_circuit.png)
+![Circuit Diagram](01_tone_sequencer_button_circuit.png)
 
 ---
 
