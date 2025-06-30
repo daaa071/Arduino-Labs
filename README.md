@@ -16,6 +16,7 @@ Each folder contains a focused project with:
 | #   | Project Folder               | Description                                      |
 |-----|------------------------------|--------------------------------------------------|
 | 01  | `01_tone_sequencer_button`   | A musical LED sequence triggered by a button 🔘🎵 |
+| 02  | `02_dht11_lcd_weather_display`   | LCD screen shows real-time temperature and humidity 🌡️💧 |
 
 ---
 
