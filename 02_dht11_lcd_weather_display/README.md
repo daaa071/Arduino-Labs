@@ -20,7 +20,7 @@ This Arduino project reads **temperature** and **humidity** data from a DHT11 se
 
 ## 📷 Circuit Diagram
 
-![Circuit Diagram](02_dht11_lcd_weather_display.png)
+![Circuit Diagram](02_dht11_lcd_weather_display_circuit.png)
 
 ---
 
