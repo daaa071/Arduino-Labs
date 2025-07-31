@@ -18,6 +18,7 @@ Each folder contains a focused project with:
 | 01  | `01_tone_sequencer_button`   | A musical LED sequence triggered by a button 🔘🎵 |
 | 02  | `02_dht11_lcd_weather_display`   | LCD screen shows real-time temperature and humidity 🌡️💧 |
 | 03  | `03_ir_remote_rgb_controller`    | RGB LED controller with animations via IR remote 🎮🌈      |
+| 04  | `04_keypad_lcd_lock_system`     | Keypad-based PIN lock system with LCD and LEDs 🔐🔢 |
 
 ---
 
